@@ -1,0 +1,50 @@
+.fc-title{
+	word-wrap: break-word;
+}
+
+#truth_words p{
+	color: lightpink;
+	text-decoration-color: aquamarine;
+}
+
+.fc-view-container{
+	border-radius: 1.5rem;
+}
+.col-md-7{
+	color:rgb(59, 59, 231);
+}
+.row{
+	text-align: center;
+}
+body{
+	background-image: url(../image/qianshou4.jpg);
+	background-attachment:fixed;
+	background-repeat: no-repeat;
+	background-position:12px;
+	/* background-size: 100% 100%; */
+}
+ul{
+	display:flex;
+	flex-direction: row;
+	/* flex-direction: column; */
+	justify-content: center;
+	/* align-content: center; */
+	text-align: center;
+	justify-content: space-between;
+}
+li{
+	margin-right: 100px;
+	margin-top: -200px;
+	text-align: center;
+	padding-left: 1px;
+}
+a{
+	padding-bottom: 10px;
+	color: #fff;
+	text-align: center;
+	font-size: larger;
+}
+a:hover{
+	border-bottom: 3px solid #b91758;
+	color: #1ab7df;
+}
